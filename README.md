@@ -1,5 +1,7 @@
 #############################
 
+This is a basic ticket booking CLI application which covers all the basic functionality of the GO language.
+
 This repo contains all the basic examples for learning GO language.
 
 Covers topics:
